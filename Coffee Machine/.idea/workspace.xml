@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af83c486-60d4-4bc0-990a-dd1079cdf869" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Amazing_Numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Comments/Incorrect comments/Amazing_Numbers.Topics-Comments-Incorrect_comments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Comments/Incorrect comments/Amazing_Numbers.Topics-Comments-Incorrect_comments.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Comments/Incorrect comments/Amazing_Numbers.Topics-Comments-Incorrect_comments.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Comments/Select all correct comments/Amazing_Numbers.Topics-Comments-Select_all_correct_comments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Comments/Select all correct comments/Amazing_Numbers.Topics-Comments-Select_all_correct_comments.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Comments/Select all correct comments/Amazing_Numbers.Topics-Comments-Select_all_correct_comments.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Comments/Theory/Amazing_Numbers.Topics-Comments-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Comments/Theory/Amazing_Numbers.Topics-Comments-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Comments/Theory/Amazing_Numbers.Topics-Comments-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Comments/Three numbers/Amazing_Numbers.Topics-Comments-Three_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Comments/Three numbers/Amazing_Numbers.Topics-Comments-Three_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Comments/Three numbers/Amazing_Numbers.Topics-Comments-Three_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Comments/What comments are not used in the program/Amazing_Numbers.Topics-Comments-What_comments_are_not_used_in_the_program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Comments/What comments are not used in the program/Amazing_Numbers.Topics-Comments-What_comments_are_not_used_in_the_program.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Comments/What comments are not used in the program/Amazing_Numbers.Topics-Comments-What_comments_are_not_used_in_the_program.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Enums in Java/Currencies/Amazing_Numbers.Topics-Enums_in_Java-Currencies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Enums in Java/Currencies/Amazing_Numbers.Topics-Enums_in_Java-Currencies.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Enums in Java/Currencies/Amazing_Numbers.Topics-Enums_in_Java-Currencies.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Enums in Java/Days of week/Amazing_Numbers.Topics-Enums_in_Java-Days_of_week.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Enums in Java/Days of week/Amazing_Numbers.Topics-Enums_in_Java-Days_of_week.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Enums in Java/Days of week/Amazing_Numbers.Topics-Enums_in_Java-Days_of_week.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Enums in Java/Enum with two constants/Amazing_Numbers.Topics-Enums_in_Java-Enum_with_two_constants.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Enums in Java/Enum with two constants/Amazing_Numbers.Topics-Enums_in_Java-Enum_with_two_constants.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Enums in Java/Enum with two constants/Amazing_Numbers.Topics-Enums_in_Java-Enum_with_two_constants.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Enums in Java/Hidden enumeration/Amazing_Numbers.Topics-Enums_in_Java-Hidden_enumeration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Enums in Java/Hidden enumeration/Amazing_Numbers.Topics-Enums_in_Java-Hidden_enumeration.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Enums in Java/Hidden enumeration/Amazing_Numbers.Topics-Enums_in_Java-Hidden_enumeration.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Enums in Java/Reasons to use enum/Amazing_Numbers.Topics-Enums_in_Java-Reasons_to_use_enum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Enums in Java/Reasons to use enum/Amazing_Numbers.Topics-Enums_in_Java-Reasons_to_use_enum.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Enums in Java/Reasons to use enum/Amazing_Numbers.Topics-Enums_in_Java-Reasons_to_use_enum.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Enums in Java/Theory/Amazing_Numbers.Topics-Enums_in_Java-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Enums in Java/Theory/Amazing_Numbers.Topics-Enums_in_Java-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Enums in Java/Theory/Amazing_Numbers.Topics-Enums_in_Java-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/NPE/Avoid NPE/Amazing_Numbers.Topics-NPE-Avoid_NPE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/NPE/Avoid NPE/Amazing_Numbers.Topics-NPE-Avoid_NPE.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/NPE/Avoid NPE/Amazing_Numbers.Topics-NPE-Avoid_NPE.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/NPE/Theory/Amazing_Numbers.Topics-NPE-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/NPE/Theory/Amazing_Numbers.Topics-NPE-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/NPE/Theory/Amazing_Numbers.Topics-NPE-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/NPE/Where NPE might occur/Amazing_Numbers.Topics-NPE-Where_NPE_might_occur.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/NPE/Where NPE might occur/Amazing_Numbers.Topics-NPE-Where_NPE_might_occur.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/NPE/Where NPE might occur/Amazing_Numbers.Topics-NPE-Where_NPE_might_occur.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Overview of the basic program/Find a keyword/Amazing_Numbers.Topics-Overview_of_the_basic_program-Find_a_keyword.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Overview of the basic program/Find a keyword/Amazing_Numbers.Topics-Overview_of_the_basic_program-Find_a_keyword.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Overview of the basic program/Find a keyword/Amazing_Numbers.Topics-Overview_of_the_basic_program-Find_a_keyword.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Overview of the basic program/Hello, Java/Amazing_Numbers.Topics-Overview_of_the_basic_program-Hello,_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Overview of the basic program/Hello, Java/Amazing_Numbers.Topics-Overview_of_the_basic_program-Hello,_Java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Overview of the basic program/Hello, Java/Amazing_Numbers.Topics-Overview_of_the_basic_program-Hello,_Java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Overview of the basic program/Keywords/Amazing_Numbers.Topics-Overview_of_the_basic_program-Keywords.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Overview of the basic program/Keywords/Amazing_Numbers.Topics-Overview_of_the_basic_program-Keywords.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Overview of the basic program/Keywords/Amazing_Numbers.Topics-Overview_of_the_basic_program-Keywords.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Overview of the basic program/The Hello World program/Amazing_Numbers.Topics-Overview_of_the_basic_program-The_Hello_World_program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Overview of the basic program/The Hello World program/Amazing_Numbers.Topics-Overview_of_the_basic_program-The_Hello_World_program.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Overview of the basic program/The Hello World program/Amazing_Numbers.Topics-Overview_of_the_basic_program-The_Hello_World_program.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Overview of the basic program/Theory/Amazing_Numbers.Topics-Overview_of_the_basic_program-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Overview of the basic program/Theory/Amazing_Numbers.Topics-Overview_of_the_basic_program-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Overview of the basic program/Theory/Amazing_Numbers.Topics-Overview_of_the_basic_program-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Package/Binary search/Amazing_Numbers.Topics-Package-Binary_search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Package/Binary search/Amazing_Numbers.Topics-Package-Binary_search.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Package/Binary search/Amazing_Numbers.Topics-Package-Binary_search.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Package/Creating instances/Amazing_Numbers.Topics-Package-Creating_instances.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Package/Creating instances/Amazing_Numbers.Topics-Package-Creating_instances.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Package/Creating instances/Amazing_Numbers.Topics-Package-Creating_instances.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Package/Theory/Amazing_Numbers.Topics-Package-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Package/Theory/Amazing_Numbers.Topics-Package-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Package/Theory/Amazing_Numbers.Topics-Package-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Printing data/Digits from 0 to 9 backwards/Amazing_Numbers.Topics-Printing_data-Digits_from_0_to_9_backwards.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Printing data/Digits from 0 to 9 backwards/Amazing_Numbers.Topics-Printing_data-Digits_from_0_to_9_backwards.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Printing data/Digits from 0 to 9 backwards/Amazing_Numbers.Topics-Printing_data-Digits_from_0_to_9_backwards.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Printing data/From 0 to 4/Amazing_Numbers.Topics-Printing_data-From_0_to_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Printing data/From 0 to 4/Amazing_Numbers.Topics-Printing_data-From_0_to_4.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Printing data/From 0 to 4/Amazing_Numbers.Topics-Printing_data-From_0_to_4.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Printing data/The result of a Tic-Tac-Toe game/Amazing_Numbers.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Printing data/The result of a Tic-Tac-Toe game/Amazing_Numbers.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Printing data/The result of a Tic-Tac-Toe game/Amazing_Numbers.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Printing data/Theory/Amazing_Numbers.Topics-Printing_data-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Printing data/Theory/Amazing_Numbers.Topics-Printing_data-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Printing data/Theory/Amazing_Numbers.Topics-Printing_data-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Printing data/We need to learn Java/Amazing_Numbers.Topics-Printing_data-We_need_to_learn_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Printing data/We need to learn Java/Amazing_Numbers.Topics-Printing_data-We_need_to_learn_Java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Printing data/We need to learn Java/Amazing_Numbers.Topics-Printing_data-We_need_to_learn_Java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Printing data/What does the code print/Amazing_Numbers.Topics-Printing_data-What_does_the_code_print.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Printing data/What does the code print/Amazing_Numbers.Topics-Printing_data-What_does_the_code_print.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Printing data/What does the code print/Amazing_Numbers.Topics-Printing_data-What_does_the_code_print.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Relational operators/Check the sum/Amazing_Numbers.Topics-Relational_operators-Check_the_sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Relational operators/Check the sum/Amazing_Numbers.Topics-Relational_operators-Check_the_sum.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Relational operators/Check the sum/Amazing_Numbers.Topics-Relational_operators-Check_the_sum.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Relational operators/Check the value/Amazing_Numbers.Topics-Relational_operators-Check_the_value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Relational operators/Check the value/Amazing_Numbers.Topics-Relational_operators-Check_the_value.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Relational operators/Check the value/Amazing_Numbers.Topics-Relational_operators-Check_the_value.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Relational operators/Groundhogs at a party/Amazing_Numbers.Topics-Relational_operators-Groundhogs_at_a_party.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Relational operators/Groundhogs at a party/Amazing_Numbers.Topics-Relational_operators-Groundhogs_at_a_party.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Relational operators/Groundhogs at a party/Amazing_Numbers.Topics-Relational_operators-Groundhogs_at_a_party.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Relational operators/Job offer/Amazing_Numbers.Topics-Relational_operators-Job_offer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Relational operators/Job offer/Amazing_Numbers.Topics-Relational_operators-Job_offer.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Relational operators/Job offer/Amazing_Numbers.Topics-Relational_operators-Job_offer.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Relational operators/Theory/Amazing_Numbers.Topics-Relational_operators-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Relational operators/Theory/Amazing_Numbers.Topics-Relational_operators-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/Topics/Relational operators/Theory/Amazing_Numbers.Topics-Relational_operators-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/util/Amazing_Numbers.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/util/Amazing_Numbers.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazing Numbers/.idea/modules/util/Amazing_Numbers.util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Brush up your code/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Buy, fill, take/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Estimate the number of servings/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Ingredient calculator/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Keep track of the supplies/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Making coffee/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/task/src/machine/CoffeeMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/task/test/CoffeeMachineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Fields and methods in enum/Danger levels/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Fields and methods in enum/Planets of the solar system/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Fields and methods in enum/Robot control/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Fields and methods in enum/System of units/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Fields and methods in enum/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2At8N8C0BEf85pTlrnXGSkCI5ax" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "show.inlinked.gradle.project.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CoffeeMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="machine.CoffeeMachine" />
+      <module name="Coffee_Machine.Coffee_Machine-task.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="machine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CoffeeMachine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af83c486-60d4-4bc0-990a-dd1079cdf869" name="Changes" comment="" />
+      <created>1655817482592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655817482592</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
