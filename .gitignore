@@ -1,7 +1,6 @@
-*/.idea/
-*/Topics/
-*/gradle/
-*/gradlew
+.idea
+Topics
+gradle
 *.yaml
 *.bat
 *.gradle
