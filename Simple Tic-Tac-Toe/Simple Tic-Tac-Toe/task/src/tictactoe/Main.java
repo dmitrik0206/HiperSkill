@@ -8,14 +8,10 @@ class TicTacToe {
     private final int size = 3;
     char[] players = {'X', 'O'};
 
-    public String getGameLine() {
-        return gameLine;
-    }
-
-    public void printField() {
+    private void printField() {
         String dashes = "---------";
         System.out.println(dashes);
-        String changedGameLine = getGameLine().replace('_', ' ');
+        String changedGameLine = gameLine.replace('_', ' ');
         for (int i = 0; i < size; i++) {
             String[] subArrayOfThird = changedGameLine.substring(i * size, size * (i + 1)).split("");
             System.out.printf("| %s |%n", String.join(" ", subArrayOfThird));
@@ -23,39 +19,39 @@ class TicTacToe {
         System.out.println(dashes);
     }
 
-    public boolean checkHorizontal(int winInt, int i) {
+    private boolean checkHorizontal(int winInt, int i) {
         int sum = 0;
-        for (char ch : getGameLine().substring(i * size, size * (i + 1)).toCharArray()) {
+        for (char ch : gameLine.substring(i * size, size * (i + 1)).toCharArray()) {
             sum += ch;
         }
         return sum == winInt;
     }
 
-    public boolean checkMainDiagonal(int winInt) {
+    private boolean checkMainDiagonal(int winInt) {
         int sum = 0;
         for (int j = 0; j < size; j++) {
-            sum += getGameLine().charAt(size * j + j);
+            sum += gameLine.charAt(size * j + j);
         }
         return sum == winInt;
     }
 
-    public boolean checkSecondaryDiagonal(int winInt) {
+    private boolean checkSecondaryDiagonal(int winInt) {
         int sum = 0;
         for (int j = 0; j < size; j++) {
-            sum += getGameLine().charAt(size * j + size - 1 - j);
+            sum += gameLine.charAt(size * j + size - 1 - j);
         }
         return sum == winInt;
     }
 
-    public boolean checkVertical(int winInt, int i) {
+    private boolean checkVertical(int winInt, int i) {
         int sum = 0;
         for (int j = 0; j < size; j++) {
-            sum += getGameLine().charAt(i + j * size);
+            sum += gameLine.charAt(i + j * size);
         }
         return sum == winInt;
     }
 
-    public boolean checkWin(int winInt) {
+    private boolean checkWin(int winInt) {
         for (int i = 0; i < size; i++) {
             if (checkHorizontal(winInt, i) || checkVertical(winInt, i)) {
                 return true;
@@ -64,27 +60,27 @@ class TicTacToe {
         return checkMainDiagonal(winInt) || checkSecondaryDiagonal(winInt);
     }
 
-    public boolean isO_Win() {
+    private boolean isO_Win() {
         int o = 'O' * size;
         return checkWin(o);
     }
 
-    public boolean isX_Win() {
+    private boolean isX_Win() {
         int x = 'X' * size;
         return checkWin(x);
     }
 
-    public int charCounter(char ch) {
+    private int charCounter() {
         int counter = 0;
         for (char charOfLine : gameLine.toCharArray()) {
-            counter += charOfLine == ch ? 1 : 0;
+            counter += charOfLine == '_' ? 1 : 0;
         }
         return counter;
     }
 
     public boolean isNotWin() {
         printField();
-        int count_ = charCounter('_');
+        int count_ = charCounter();
         if (count_ == 0 && !isX_Win() && !isO_Win()) {
             System.out.println("Draw");
             return false;
@@ -103,7 +99,7 @@ class TicTacToe {
     }
 
     private boolean isNotFreeCoordinates(String coordinates) {
-        return getGameLine().charAt(converterStringToIndexGameLine(coordinates)) != '_';
+        return gameLine.charAt(converterStringToIndexGameLine(coordinates)) != '_';
     }
 
     private void changeGameLine(String coordinates, char ch) {
